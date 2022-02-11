@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "code": "ARF12DF",
+      "name": "Armour Red 12 DF",
+      "price": 14000,
+      "stock": 100
+    },
+    {
+      "id": "2",
+      "code": "ABLF20DF",
+      "name": "Armour Black 20 DF",
+      "price": 20000,
+      "stock": 50
+    },
+    {
+      "id": "3",
+      "code": "AK16",
+      "name": "Armour Kretek 16",
+      "price": 7000,
+      "stock": 200
+    },
+    {
+      "id": "4",
+      "code": "GBOF20DF",
+      "name": "Ginza Bold 20 DF",
+      "price": 20000,
+      "stock": 150
+    }
+  ]
+}
